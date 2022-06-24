@@ -7,7 +7,7 @@ function Crud() {
 
     return (
         <CrudLayoutStyle>
-            <h1 className="app-title">Crud App Using Recoil</h1>
+            <h1 className="app-title">Crud App Using Jotai</h1>
             <InputBox />
             <Item />
         </CrudLayoutStyle>
